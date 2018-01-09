@@ -1,0 +1,6 @@
+applications:
+- name: First-Application
+path: target/spring-cloud-foundry-0.0.1-SNAPSHOT.jar
+domain: cfapps.io
+memory: 670M
+instances: 1
